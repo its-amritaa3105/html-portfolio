@@ -1,0 +1,15 @@
+p{
+    color:blueviolet;
+    background-color: orchid;
+    font-family: "Sevillana", cursive;
+    font-size: xx-large;
+}
+body{
+    background-color: rosybrown;
+}
+img{
+    height: 700px;
+    width: 700px;
+    border: 50px;
+    border-style: ridge;
+}

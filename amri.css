@@ -1,0 +1,24 @@
+h1{
+    color: tomato;
+    background-color: plum;
+    text-align: center;
+    font-family: "Sevillana", cursive;
+    font-size:xx-large;
+
+}
+body{
+    background-color: rosybrown;
+}
+
+img{
+    height: 700px;
+    width: 700px;
+    display:block;
+    margin: auto;
+    border: 50px;
+    border-style: ridge;
+}
+a{
+    font-size: xx-large;
+    color: seagreen;
+}
